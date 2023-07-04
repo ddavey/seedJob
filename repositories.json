@@ -1,6 +1,7 @@
 {
   "repositories" : [
     "aa",
-    "bb"
+    "bb",
+    "Init Pipeline"
   ]
 }
